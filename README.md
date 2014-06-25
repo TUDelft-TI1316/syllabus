@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-BSc Course TI1315 on Algorithms and Data Structures at TU Delft
+BSc Course TI1315/TI1315TW on Algorithms and Data Structures at TU Delft
 
 ## Voorkennis
 
@@ -103,7 +103,6 @@ The student can
   
 ## Onderwijsvorm
 
-
 ### Lectures (7w x 2c/w x 2h/c)
 
 In the lectures, new data structures and algorithms are introduced by discussing 
@@ -124,6 +123,12 @@ In the weekly lab assignments, students implement and analyse basic data structu
 Each lab assignment comes with several public tests as well as hidden specification tests.
 Students can rely on the public tests to improve their solution, 
 while the specification tests indicate whether their solution is sufficient.
+
+### Additional Lectures (2w x 2h/w) and Practicals (2w x 4h/w) for TW Students
+
+In two additional lectures for TW students, we introduce the Java programming language.
+In two additional lab assignments, student apply the newly required knowledge to solve basic Java programming assignments.
+The additional lectures and labs compensate for an extra credit point for TW students.
 
 ## Literatuur
 
