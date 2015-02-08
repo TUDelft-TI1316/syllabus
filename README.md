@@ -2,12 +2,12 @@
 
 BSc Course TI1315/TI1315TW on Algorithms and Data Structures at TU Delft
 
-## Voorkennis
+## Expected Prior Knowledge
 
 The student has basic knowledge about object-oriented programming and 
 can solve small programming tasks either in Java or Python.
 
-## Vakinhoud
+## Course Contents
 
 Algorithms and data structures are fundamental notions in computer science and
 knowledge about standard data structures and algorithm is essential for programmers.
@@ -19,7 +19,7 @@ This course enables the student to
 * Analyse and compare implementations with respect to their time and space complexity.
 * Understand, explain, and apply standard programming techniques in the context of standard data structures.
 
-## Leerdoelen
+## Study Goals
 
 ### Data Structures
 
@@ -101,7 +101,7 @@ The student can
   explain, implement, apply and analyse generic graph traversal strategies, and
   explain, develop and adopt implementations of various graph algoritms.
   
-## Onderwijsvorm
+## Education Method
 
 ### Lectures (7w x 2c/w x 2h/c)
 
@@ -130,18 +130,46 @@ In two additional lectures for TW students, we introduce the Java programming la
 In two additional lab assignments, student apply the newly required knowledge to solve basic Java programming assignments.
 The additional lectures and labs compensate for an extra credit point for TW students.
 
-## Literatuur
+## Literature
 
 Datastructures and Algorithms in Java, M.Goodrich & R.Tamassia, ISBN 978-0-470-39880-7
 
-## Wijze van toetsen
+## Assessment
 
-1. Lab assignments
-2. Summative midterm exam
-3. Summative final exam
+1. In the computer-based lab assignments, students need to implement and analyse various data structures and algorithms. 
 
-In the computer-based exams, students need to implement and analyse data structures and algorithms.
-The final grade is a combination of the results in the midterm exam (40%) and in the final exam (60%).
-To pass the course, students need to pass the specification tests of all lab assignments and 
-  have a final grade of 6 or higher.
-Standard TU Delft rounding rules apply.
+ Assignments must be submitted weekly. Each student has 5 late days to use at his or her discretion.
+ Each late day constitutes a 24-hour extension; students cannot split late days into smaller increments.
+ Once a student runs out of late days, any further late submission results in failing the course.
+
+ All actual, detailed work on assignments must be individual work.
+ Students are encouraged to discuss assignments, the Java programming language, its libraries, and general solution techniques with each other.
+ If students do so, they must acknowledge those people in their submission.
+ Students should not look for assignment solutions elsewhere; but if material is taken from elsewhere, then its source must be acknowledged in the submission.
+ Students are not permitted to provide or receive any kind of solutions of assignments. This includes partial, incomplete, or erroneous solutions.
+ Students are also not permitted to provide or receive programming help from people other than the teaching assistants, PhD students associated with this course, or the course instructors.
+ Any violation of these rules will be reported as a suspected case of fraud to the Board of Examiners and handled according to the EEMCS Faculty's fraud procedure.
+
+2. In the summative, computer-based midterm exam, students need to implement and analyse data structures and algorithms, which were discussed in the first part of the course or are similar to those discussed in the course.
+
+3. In the summative, computer-based final exam, students need to implement and analyse data structures and algorithms, which were discussed in both parts of the course or are similar to those discussed in the course. 
+
+4. In the summative, computer-based resit exam, students need to implement and analyse data structures and algorithms, which were discussed in both parts of the course or are similar to those discussed in the course.
+
+## Judgement
+
+The computer-based assignments and exams are graded automatically by specification tests and manually by the course instructors.
+
+To pass the course, a student needs to
+
+1. pass all the specification tests in the computer-based assignments,
+2. score 50% or more of the possible points in the midterm exam,
+3. score 50% or more of the possible points in the final exam, and
+4. have a passing final grade according to TU Delft rules. The final grade is a combination of the results in the midterm exam (40%) and in the final exam (60%). Standard TU Delft rounding rules apply to the final grade.
+
+To pass the course with a resit exam, a student needs to
+
+1. pass all the specification tests in the computer-based assignments, and
+2. have a passing final grade according to TU Delft rules. The final grade is the grade of the resit exam. Standard TU Delft rounding rules apply to the final grade.
+
+Under special circumstances, exceptions to these rules can only be given in coordination with TU Delft study advisors.
