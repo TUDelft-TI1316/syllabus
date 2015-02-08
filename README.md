@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-BSc Course TI1315/TI1315TW on Algorithms and Data Structures at TU Delft
+BSc Course TI1316/TI1316TW on Algorithms and Data Structures at TU Delft
 
 ## Expected Prior Knowledge
 
